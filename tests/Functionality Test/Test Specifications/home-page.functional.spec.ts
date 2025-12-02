@@ -3,8 +3,8 @@ import { HandStonePage } from './pages/HomePage';
 
 // const BASE_URL = 'https://custom-booking-app-development-hand-and-stone.vercel.app/';
 // const BASE_URL = 'https://custombookingapp-env-staging-hand-and-stone.vercel.app/';
-const BASE_URL = 'https://custom-booking-app-release-hand-and-stone.vercel.app/';
-// const BASE_URL = 'https://handandstone.com/';
+// const BASE_URL = 'https://custom-booking-app-release-hand-and-stone.vercel.app/';
+const BASE_URL = 'https://handandstone.com/';
 
 test.describe('Hand & Stone Homepage - Comprehensive Test Suite', () => {
   
