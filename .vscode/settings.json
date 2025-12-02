@@ -1,0 +1,14 @@
+{
+    "chat.mcp.serverSampling": {
+        "TestExample/.vscode/mcp.json: playwright-test": {
+            "allowedModels": [
+                "copilot/gpt-5-mini",
+                "copilot/auto",
+                "copilot/claude-haiku-4.5",
+                "copilot/gpt-4.1",
+                "copilot/gpt-4o",
+                "copilot/oswe-vscode-prime"
+            ]
+        }
+    }
+}
