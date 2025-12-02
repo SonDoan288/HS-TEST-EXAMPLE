@@ -62,7 +62,7 @@ export class HandStonePage {
   }
 
   get heroBookNowButton(): Locator { 
-    return this.heroSection.getByRole('link', { name: /book|cta-book-now|cta-location-finder/i }); 
+    return this.heroSection.getByRole('link', { name: /book|cta-book-now|cta-location-finder/i }).first(); 
   }
 
   get heroGiftCardButton(): Locator { 

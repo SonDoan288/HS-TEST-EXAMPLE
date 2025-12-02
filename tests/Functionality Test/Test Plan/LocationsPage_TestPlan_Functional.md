@@ -1726,6 +1726,6 @@ This test plan has been updated to reflect POC 2 architectural improvements:
 
 *Test Plan Version: 2.0 (POC 2 Enhanced)*  
 *Last Updated: 2025-01-XX*  
-*Created by: AI Test Planner*  
+*Created by:*  
 *Page Type: Locations Finder & Booking Interface with In-Memory Search*
 
