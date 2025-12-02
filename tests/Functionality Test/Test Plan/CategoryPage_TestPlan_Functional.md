@@ -1488,6 +1488,6 @@ Homepage → Click Treatment Card → Category Page → Select Specific Service 
 
 *Test Plan Version: 1.0*  
 *Last Updated: 2025-11-13*  
-*Created by: AI Test Planner*  
+*Created by:*  
 *Page Type: Category/Service Template Page*
 
